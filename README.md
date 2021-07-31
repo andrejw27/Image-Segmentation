@@ -1,4 +1,4 @@
-# UNet-Image-Segmentation
+# Image Segmentation using UNet in PyTorch
 This is a simple implementation of UNet for image segmentation on geospatial images. 
 
 ## UNet
